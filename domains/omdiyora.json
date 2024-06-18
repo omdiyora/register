@@ -1,0 +1,10 @@
+{
+  "subdomain": "omdiyora",
+  "owner": {
+    "repo": "https://github.com/omdiyora/omdiyora",
+    "email": "omdiyora58@gmail.com"
+  },
+  "record": {
+    "CNAME": "omdiyora.vercel.app"
+  }
+}
